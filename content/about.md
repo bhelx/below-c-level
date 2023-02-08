@@ -58,3 +58,4 @@ try something and come present your findings. Here are some ideas that could be 
 * Make a simple OS
 * Make a computer from logic gates
 
+The intended audience is a professional programmer with several years of experience in systems programming, regardless of language, framework, or operating system. Should your presentation rely on a feature, library, syntax, etc. that's not well know outside of that specific community it will help our community if you explain it. If you have any questions we're happy to provide guidance.
