@@ -32,7 +32,7 @@ draft: false
 <div class="organizers">
   <div class="organizer">
     <img src="/images/ben.jpg" />
-    <p>Ben has over a decade of experience as a software engineer and is the co-founder of <a href="https://dylib.so">Dylibso</a>. He previously lead DX at <a href="https://recurly.com">Recurly</a> and worked on integrations and edge observability at <a href="https://www.datadoghq.com">Datadog</a>.</p>
+    <p>Ben has over a decade of experience as a software engineer and is the co-founder of <a href="https://dylib.so">Dylibso</a>. He previously led DX at <a href="https://recurly.com">Recurly</a> and worked on integrations and edge observability at <a href="https://www.datadoghq.com">Datadog</a>.</p>
   </div>
   <div class="organizer">
     <img src="/images/aaron.jpg" />
