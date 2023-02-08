@@ -36,7 +36,7 @@ draft: false
   </div>
   <div class="organizer">
     <img src="/images/aaron.jpg" />
-    <p>Aaron has been a Software Engineer and SRE on several big projects.</p>
+    <p><a href="https://github.com/wwkeyboard">Aaron Lee</a> is a Software Engineer and SRE. He was an engineer at <a href="https://www.rackspace.com/">Rackspace</a> and <a href="https://www.digitalocean.com/">DigitalOcean</a> before building a storage system at <a href="https://www.planet.com/">Planet Labs</a>.</p>
   </div>
 </div>
 
