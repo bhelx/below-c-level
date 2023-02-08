@@ -1,0 +1,26 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Below C Level'
+theme = "cactus"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+  colortheme = "cream" # dark, light, white, or classic
+#  description = "The Below C Level meetup is a systems programming meetup in New Orleans, LA."
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Time & Place"
+url = "/time-and-place"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
