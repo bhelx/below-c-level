@@ -22,7 +22,7 @@ iframe {
 
 *Below C Level* is the *first Tuesday* of *every month* and occurs from *6:00 PM - 7:30 PM [Central Time](https://dateful.com/convert/usa-central-time?t=6pm&tz2=EST-EDT-Eastern-Time)*.
 We will congregate and eat food at 6:00. The talk will start at 6:30 and last one hour.
-Afterwards, some of us may walk down to the bar for a drink and to combine with the folks
+Afterwards, some of us may walk down to the bar for a drink and combine with the folks
 at NOLA Hack Night.
 
 ## Next Meeting
