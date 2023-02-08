@@ -1,4 +1,4 @@
-baseURL = 'https://below-c-level.pages.dev/'
+baseURL = 'https://belowclevel.org'
 languageCode = 'en-us'
 title = 'Below C Level'
 theme = "cactus"
