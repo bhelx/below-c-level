@@ -6,7 +6,7 @@ draft: false
 
 We are systems programmers living in New Orleans, LA. We [meet once a month](/time-and-place/) for a presentation
 and discussion about systems programming. This meetup is to bring together the local people who have this knowledge 
-as well as potentially motivate some in the developer community to dig below their abstractions.
+as well as motivate application developers to dig below their abstractions.
 
 See [Time & Place](/time-and-place) and [About](/about) for more info.
 

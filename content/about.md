@@ -44,7 +44,7 @@ draft: false
 ## What is Systems Programming?
 
 We mostly follow the [Wikipedia definition](https://en.wikipedia.org/wiki/Systems_programming), however, we are not interested in
-strictly following a theme and instead we want to follow the spirit of systems programming which is about curiosity of
+a strict interpretation. Instead, we want to follow the spirit of systems programming which is about curiosity of
 how our computers and underlying systems work.
 
 ## Submitting a talk

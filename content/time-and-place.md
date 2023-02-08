@@ -25,6 +25,10 @@ We will congregate and eat food at 6:00. The talk will start at 6:30 and last on
 Afterwards, some of us may walk down to the bar for a drink and to combine with the folks
 at NOLA Hack Night.
 
+## Next Meeting
+
+Our March 2023 meeting will be Tuesday, March 7th.
+
 ## Location
 
 > **Note**: All talks will be streamed and recorded to Twitch
