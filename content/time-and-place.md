@@ -4,6 +4,19 @@ date: 2023-01-19T23:24:27-06:00
 draft: false
 ---
 
+<style>
+iframe {
+  height: 450px;
+  width: 600px;
+}
+@media only screen and (max-width: 500px) {
+  iframe {
+    height: 300px;
+    width: 300px;
+  }
+}
+</style>
+
 
 ## Time
 

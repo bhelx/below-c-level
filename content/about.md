@@ -4,10 +4,42 @@ date: 2023-01-19T23:24:27-06:00
 draft: false
 ---
 
+## About Us
 
-We are systems programmers living in New Orleans, LA. We [meet once a month](/time-and-place/) for a presentation
-and discussion about systems programming. This meetup is to bring together the local people who have this knowledge 
-as well as potentially motivate some in the developer community to dig below their abstractions.
+<style>
+.organizers {
+  display: flex;
+}
+.organizer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+}
+.organizer img {
+  border-radius: 50%;
+  width: 175px!important;
+  height: 175px!important;
+  margin: unset!important; // inherited
+}
+@media only screen and (max-width: 600px) {
+  .organizers {
+    flex-direction: column;
+  }
+}
+</style>
+<div class="organizers">
+  <div class="organizer">
+    <img src="/images/ben.jpg" />
+    <p>Ben has over a decade of experience as a software engineer and is the co-founder of <a href="https://dylib.so">Dylibso</a>. He previously lead DX at <a href="https://recurly.com">Recurly</a> and worked on integrations and edge observability at <a href="https://www.datadoghq.com">Datadog</a>.</p>
+  </div>
+  <div class="organizer">
+    <img src="/images/aaron.jpg" />
+    <p>Aaron has been a Software Engineer and SRE on several big projects.</p>
+  </div>
+</div>
+
 
 ## What is Systems Programming?
 
