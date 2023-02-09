@@ -27,7 +27,7 @@ at NOLA Hack Night.
 
 ## Next Meeting
 
-Our March 2023 meeting will be Tuesday, March 7th.
+Our March 2023 meeting will be [Tuesday, March 7th](https://www.meetup.com/below-c-level-systems-programming-meetup/events/291513491/).
 
 ## Location
 
