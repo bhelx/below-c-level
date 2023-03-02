@@ -12,7 +12,7 @@ Welcome to our first meeting! On the agenda we have:
 
 - Introductions
 - Administrative business
-- A talk from Ben
+- Ben will present [smol: An education JS based VM](https://github.com/bhelx/smol)
 
 If you want to give a talk, or want to build an idea into a talk we'll
 also spend some time filling out our schedule.
