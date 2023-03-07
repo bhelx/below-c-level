@@ -31,7 +31,7 @@ Our March 2023 meeting will be [Tuesday, March 7th](https://www.meetup.com/below
 
 ## Location
 
-> **Note**: All talks will be streamed and recorded to Twitch
+> **Note**: All talks will be streamed and recorded to [Twitch](https://www.twitch.tv/digraph)
 
 If you want to attend in meatspace, you'll need to get to
 [The Shop At the CAC](https://shopworkspace.com/) in New Orleans, LA.
