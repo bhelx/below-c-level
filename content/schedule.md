@@ -6,6 +6,16 @@ draft: false
 
 # Upcoming
 
+
+## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
+
+Aaron Lee will present about [Maglev: A Fast and Reliable Software
+Network Load Balancer](https://research.google/pubs/pub44824/), which
+lays out a way to build a load balancer that serves more traffic than
+any single machine could.
+
+# Archive
+
 ## 2023-03-07T18:00:00-06:00 - First Meeting
 
 Welcome to our first meeting! On the agenda we have:
@@ -17,11 +27,7 @@ Welcome to our first meeting! On the agenda we have:
 If you want to give a talk, or want to build an idea into a talk we'll
 also spend some time filling out our schedule.
 
-## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
+### Recording
 
-Aaron Lee will present about [Maglev: A Fast and Reliable Software
-Network Load Balancer](https://research.google/pubs/pub44824/), which
-lays out a way to build a load balancer that serves more traffic than
-any single machine could.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7GxyHxyYA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Archive
