@@ -40,15 +40,17 @@ If you want to attend in meatspace, you'll need to get to
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.255639529634!2d-90.0738928005132!3d29.943244402841852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a676c8155555%3A0xb336121282dc7834!2sThe%20Shop%20At%20the%20CAC!5e0!3m2!1sen!2sus!4v1674340885740!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <p></p>
 
-Enter the building using the glass doors on Camp St and take the elevator to the 3rd floor. You then take the open stairs in the middle of the room
-up to the 4th floor. There is a large conference room in the center of this floor in the center hall called Executive Conference Room - 4D.
-It's the largest conference room on the floor.
+Enter the building using the glass doors on Camp St and take the elevator to the 4th floor. There is a glass door that is typically locked that takes you into a commons area. At least one person will be there to greet you and let you in. We will hold the meeting in the large conference room in the center of this floor in the center hall called Executive Conference Room - 4D.
 
 The bar we will walk to afterwards is called [The Rusty Nail](http://www.rustynailnola.com/). It's a 7 minute walk from the venue. This is completely optional but we can't reserve the room all night.
 
 <p></p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3457.2931215279723!2d-90.07258453458044!3d29.94224623034755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x8620a676c8155555%3A0xb336121282dc7834!2sThe%20Shop%20At%20the%20CAC%2C%20900%20Camp%20St%203rd%20floor%2C%20New%20Orleans%2C%20LA%2070130!3m2!1d29.9435272!2d-90.0707523!4m5!1s0x8620a670b8ad05ed%3A0xe2ef9b67b783213b!2sThe%20Rusty%20Nail%2C%20Constance%20Street%2C%20New%20Orleans%2C%20LA!3m2!1d29.9408329!2d-90.06924629999999!5e0!3m2!1sen!2sus!4v1674341164188!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <p></p>
+
+## I'm Late and Locked Out!
+
+If you find yourself late or locked out of the building, please ping Benjamin or Aaron on Slack. We can buzz you in remotely.
 
 ## Parking
 
