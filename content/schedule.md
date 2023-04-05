@@ -6,6 +6,7 @@ draft: false
 
 # Upcoming
 
+# Archive
 
 ## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
 
@@ -14,7 +15,9 @@ Network Load Balancer](https://research.google/pubs/pub44824/), which
 lays out a way to build a load balancer that serves more traffic than
 any single machine could.
 
-# Archive
+### Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQdHJvW7vOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2023-03-07T18:00:00-06:00 - First Meeting
 
