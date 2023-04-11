@@ -6,6 +6,12 @@ draft: false
 
 # Upcoming
 
+## 2023-05-02T18:00:00-06:00 - Running JavaScript in Wasm
+
+Benjamin Eckel will talk about how [Extism](https://extism.org/) is able to run [JavaScript
+in Wasm](https://github.com/extism/js-pdk). We'll dig into the concepts behind how we leverage [QuickJS](https://bellard.org/quickjs/) and how
+we are able to make it fast.
+
 # Archive
 
 ## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
