@@ -12,6 +12,10 @@ Benjamin Eckel will talk about how [Extism](https://extism.org/) is able to run 
 in Wasm](https://github.com/extism/js-pdk). We'll dig into the concepts behind how we leverage [QuickJS](https://bellard.org/quickjs/) and how
 we are able to make it fast.
 
+## 2023-06-06T18:00:00-06:00 - Semantic Search
+
+Robert Ismo will talk about Semantic Search.
+
 # Archive
 
 ## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
