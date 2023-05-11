@@ -20,7 +20,7 @@ we are able to make it fast.
 
 ### Recording
 
-<iframe width="516" height="315" src="https://www.youtube.com/embed/cIsEbeuloD0" title="Below-C-Level May 2023: Running JavaScript in Wasm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cIsEbeuloD0" title="Below-C-Level May 2023: Running JavaScript in Wasm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
 
