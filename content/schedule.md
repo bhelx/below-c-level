@@ -6,9 +6,9 @@ draft: false
 
 # Upcoming
 
-## 2023-06-06T18:00:00-06:00 - Semantic Search
+## 2023-06-06T18:00:00-06:00 - Building Semantic Search
 
-Robert Ismo will talk about Semantic Search.
+Robert Ismo will talk about semantic search. Exploring methods of finding relavent documents from a simple query and some of the mathematics to make it performant.
 
 # Archive
 

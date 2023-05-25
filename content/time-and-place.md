@@ -27,7 +27,7 @@ at NOLA Hack Night.
 
 ## Next Meeting
 
-Our May 2023 meeting will be Tuesday, 2nd.
+Our June 2023 meeting will be Tuesday, June 6th.
 
 ## Location
 
