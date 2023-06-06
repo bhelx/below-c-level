@@ -8,7 +8,15 @@ draft: false
 
 ## 2023-06-06T18:00:00-06:00 - Building Semantic Search
 
-Robert Ismo will talk about semantic search. Exploring methods of finding relavent documents from a simple query and some of the mathematics to make it performant.
+Robert Ismo will talk about semantic search. Exploring methods of finding relevant documents from a simple query and some of the mathematics to make it performant.
+
+## 2023-07-18T18:00:00-06:00 - Virtio
+
+Neil Mock will be talking about virtio. More details to come soon.
+
+## 2023-08-01T18:00:00-06:00 - Dan Phillips
+
+Dan Phillips will be presenting. More details to come soon. 
 
 # Archive
 
