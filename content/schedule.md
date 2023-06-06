@@ -12,6 +12,8 @@ Robert Ismo will talk about semantic search. Exploring methods of finding releva
 
 ## 2023-07-18T18:00:00-06:00 - Virtio
 
+**Note**: This will be the third Tuesday, not the first, because the organizers will be out of town.
+
 Neil Mock will be talking about virtio. More details to come soon.
 
 ## 2023-08-01T18:00:00-06:00 - Dan Phillips
