@@ -15,6 +15,6 @@ To run locally:
 hugo server -D
 ```
 
-## Send PR
+## Submit A PR
 
-This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/) and it automatically deployed on merge. When you submit a PR, the Cloudflare bot will create a preview link. Please review your change using this link after creating the PR.
+This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/) and it is automatically deployed on merge. When you submit a PR, the Cloudflare bot will create a preview link. Please review your change using this link after creating the PR.
