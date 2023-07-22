@@ -6,17 +6,22 @@ draft: false
 
 # Upcoming
 
-## 2023-07-18T18:00:00-06:00 - Virtio
-
-**Note**: This will be the third Tuesday, not the first, because the organizers will be out of town.
-
-Neil Mock will be talking about virtio. More details to come soon.
 
 ## 2023-08-01T18:00:00-06:00 - Dan Phillips
 
 Dan Phillips will be presenting. More details to come soon. 
 
 # Archive
+
+## 2023-07-18T18:00:00-06:00 - Virtio
+
+**Note**: This will be the third Tuesday, not the first, because the organizers will be out of town.
+
+Neil Mock will be talking about virtio. More details to come soon.
+
+### Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfMkWQOJzUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2023-06-06T18:00:00-06:00 - Building Semantic Search
 
