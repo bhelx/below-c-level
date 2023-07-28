@@ -27,7 +27,7 @@ at NOLA Hack Night.
 
 ## Next Meeting
 
-Our July 2023 meeting will not be the first Tuesday of the month due to the holiday. Instead it will be Tuesday, July 18th.
+Our next meeting is Tuesday, August 1st.
 
 ## Location
 

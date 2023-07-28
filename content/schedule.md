@@ -7,9 +7,20 @@ draft: false
 # Upcoming
 
 
-## 2023-08-01T18:00:00-06:00 - Dan Phillips
+## 2023-08-01T18:00:00-06:00 - Filesystems, Everywhere
 
-Dan Phillips will be presenting. More details to come soon. 
+This week we have Dan Phillips talking about Wasm and filesystems. Here is the abstract:
+
+Title: Filesystems, Everywhere
+
+WebAssembly, described by some as the “Final Abstraction,” allows for a lot of opportunity to improve upon many of the basic building blocks of computing, as we know them today. One of the most prominent of these is filesystems.
+
+The unix philosophy that “everything is a file” is a fundamental idea that powers platforms that currently run a huge amount of software. If we want Wasm to be a deployment target for existing applications, we have to grapple with this fact and figure out how we intend to approach the problem of filesystems and filesystem-like entities in this new platform.
+
+One approach: A WebAssembly-first Filesystem. This talk will discuss the rationale for and development of the `wasm-vfs` and `wasm-libc` projects that allow for the use of a standard filesystem, virtualized, all within a Wasm module. We will also examine how this new paradigm can be enabled by and further expanded with new features planned for the Wasm spec around virtualization, “share-everything” dynamic linking, and resource handles and types.
+
+A WebAssembly-powered computing platform allows us to think outside of the distinctions of Userspace and Kernelspace – so why not see how far that can take us? Starting with filesystems, we’ll see how some of the same concepts of virtualization from the kernel can be applied to new environments where a filesystem can exists close to your users, your application, on the cloud, and on devices, all without worrying about the all-too-familiar costs of syscall execution in traditional Operating Systems.
+
 
 # Archive
 
