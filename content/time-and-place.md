@@ -27,7 +27,7 @@ at NOLA Hack Night.
 
 ## Next Meeting
 
-Our next meeting is Tuesday, August 1st.
+Our next meeting is Tuesday, October 3rd. We are skipping September.
 
 ## Location
 
