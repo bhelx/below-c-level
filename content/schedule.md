@@ -6,6 +6,15 @@ draft: false
 
 # Upcoming
 
+## 2023-09-05T18:00:00-06:00 - Canceled
+
+Due to scheduling conflicts we will skip September's meeting.
+
+## 2023-10-03T18:00:00-06:00 - TBA
+
+October will be great!
+
+# Archive
 
 ## 2023-08-01T18:00:00-06:00 - Filesystems, Everywhere
 
@@ -21,8 +30,6 @@ One approach: A WebAssembly-first Filesystem. This talk will discuss the rationa
 
 A WebAssembly-powered computing platform allows us to think outside of the distinctions of Userspace and Kernelspace – so why not see how far that can take us? Starting with filesystems, we’ll see how some of the same concepts of virtualization from the kernel can be applied to new environments where a filesystem can exists close to your users, your application, on the cloud, and on devices, all without worrying about the all-too-familiar costs of syscall execution in traditional Operating Systems.
 
-
-# Archive
 
 ## 2023-07-18T18:00:00-06:00 - Virtio
 
