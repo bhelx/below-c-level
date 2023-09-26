@@ -6,13 +6,9 @@ draft: false
 
 # Upcoming
 
-## 2023-09-05T18:00:00-06:00 - Canceled
+## 2023-10-03T18:00:00-06:00 - Calling C from Rust using Bindgen
 
-Due to scheduling conflicts we will skip September's meeting.
-
-## 2023-10-03T18:00:00-06:00 - TBA
-
-October will be great!
+Aaron Lee will talk about using [bindgen](https://github.com/rust-lang/rust-bindgen) to automatically make FFI bindings from Rust to C. In the process I'll speed run teaching enough Rust to understand the talk, and give you enough terms to google and get started on your own projects. And also explain why you might want to tackle a project like this.
 
 # Archive
 
