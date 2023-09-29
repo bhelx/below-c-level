@@ -6,13 +6,9 @@ draft: false
 
 # Upcoming
 
-## 2023-09-05T18:00:00-06:00 - Canceled
+## 2023-10-03T18:00:00-06:00 - Austin Clements - Reversing SEGA ROMs using Ghidra
 
-Due to scheduling conflicts we will skip September's meeting.
-
-## 2023-10-03T18:00:00-06:00 - TBA
-
-October will be great!
+Austin Clements will give us an introduction to software reverse engineering by taking apart a Sega Genesis ROM using the open source Ghidra tool suite
 
 # Archive
 
