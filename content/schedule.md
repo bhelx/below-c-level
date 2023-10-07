@@ -6,13 +6,15 @@ draft: false
 
 # Upcoming
 
-## 2023-10-03T18:00:00-06:00 - Austin Clements - Reversing SEGA ROMs using Ghidra
-
-Austin Clements will give us an introduction to software reverse engineering by taking apart a Sega Genesis ROM using the open source Ghidra tool suite
-
 # Archive
 
-## 2023-08-01T18:00:00-06:00 - Filesystems, Everywhere
+## 2023-10-03T18:00:00-06:00 - Austin Clements: Reversing SEGA ROMs using Ghidra
+
+Austin Clements will give us an introduction to reverse engineering by taking apart a Sega Genesis ROM using the open source Ghidra tool suite
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TziD0EHVlIE" title="Below-C-Level October 2023: Austin Clements - Reversing SEGA ROMs using Ghidra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## 2023-08-01T18:00:00-06:00 - Dan Philips: Filesystems, Everywhere
 
 This week we have Dan Phillips talking about Wasm and filesystems. Here is the abstract:
 
@@ -27,7 +29,10 @@ One approach: A WebAssembly-first Filesystem. This talk will discuss the rationa
 A WebAssembly-powered computing platform allows us to think outside of the distinctions of Userspace and Kernelspace – so why not see how far that can take us? Starting with filesystems, we’ll see how some of the same concepts of virtualization from the kernel can be applied to new environments where a filesystem can exists close to your users, your application, on the cloud, and on devices, all without worrying about the all-too-familiar costs of syscall execution in traditional Operating Systems.
 
 
-## 2023-07-18T18:00:00-06:00 - Virtio
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uj864_mI0gI" title="Below-C-Level August 203: Dan Phillips - Filesystems Everywhere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## 2023-07-18T18:00:00-06:00 - Neil Mock: Virtio
 
 **Note**: This will be the third Tuesday, not the first, because the organizers will be out of town.
 
@@ -37,7 +42,7 @@ Neil Mock will be talking about virtio. More details to come soon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfMkWQOJzUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 2023-06-06T18:00:00-06:00 - Building Semantic Search
+## 2023-06-06T18:00:00-06:00 - Robert Ismo: Building Semantic Search
 
 Robert Ismo will talk about semantic search. Exploring methods of finding relevant documents from a simple query and some of the mathematics to make it performant.
 
@@ -46,7 +51,7 @@ Robert Ismo will talk about semantic search. Exploring methods of finding releva
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uqVx6gCOrck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## 2023-05-02T18:00:00-06:00 - Running JavaScript in Wasm
+## 2023-05-02T18:00:00-06:00 - Benjamin Eckel: Running JavaScript in Wasm
 
 Benjamin Eckel will talk about how [Extism](https://extism.org/) is able to run [JavaScript
 in Wasm](https://github.com/extism/js-pdk). We'll dig into the concepts behind how we leverage [QuickJS](https://bellard.org/quickjs/) and how
@@ -56,7 +61,7 @@ we are able to make it fast.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cIsEbeuloD0" title="Below-C-Level May 2023: Running JavaScript in Wasm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 2023-04-04T18:00:00-06:00 - Google's Maglev Paper
+## 2023-04-04T18:00:00-06:00 - Aaron Lee: Google's Maglev Paper
 
 Aaron Lee will present about [Maglev: A Fast and Reliable Software
 Network Load Balancer](https://research.google/pubs/pub44824/), which
@@ -67,7 +72,7 @@ any single machine could.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qQdHJvW7vOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 2023-03-07T18:00:00-06:00 - First Meeting
+## 2023-03-07T18:00:00-06:00 - Benjamin Eckel: First Meeting, and Presenting Smol
 
 Welcome to our first meeting! On the agenda we have:
 
