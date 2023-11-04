@@ -6,6 +6,11 @@ draft: false
 
 # Upcoming
 
+## 2023-11-07T18:00:00-06:00 - Lightning Talks
+
+* Devin Villegas (Software Eng. @ Netflix) will discuss formal methods
+* Benjamin Eckel will talk about a new Wasm runtime he's working on
+
 # Archive
 
 ## 2023-10-03T18:00:00-06:00 - Austin Clements: Reversing SEGA ROMs using Ghidra
