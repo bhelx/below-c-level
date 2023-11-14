@@ -6,12 +6,18 @@ draft: false
 
 # Upcoming
 
+## 2023-12-05T18:00:00-06:00 - Dominique Saulet - WebAssembly Unpacked: A Guide to Wasm
+
+Perhaps you’ve heard of WebAssembly (Wasm) and all of the associated refrains: virtual Instruction Set Architecture (ISA), web standard, stack-based virtual machine, fantasy computer, and compilation target. Perhaps you’ve been told of its feature set: sandboxed security, highly performant and portable byte code format, and perhaps even, you’ve heard the prophecies: the holy grail of 'write once, run anywhere' (sorry Java), the common denominator for all compute, a bridge from languages, high and low, to platforms in the cloud and off to the far edge. But the truth, you see, is that Wasm is here. It’s all around you. Even now, in your browser, in your streaming services, in your serverless functions, extending your SaaS platforms, and running your AI models. And so, together, let’s unpack this alien tech and all of the arcane words that describe it, bit by bit, byte by byte, to discover what strange mechanisms make it tick, and what it means for the future.
+
+# Archive
+
 ## 2023-11-07T18:00:00-06:00 - Lightning Talks
 
 * Devin Villegas (Software Eng. @ Netflix) will discuss formal methods
 * Benjamin Eckel will talk about a new Wasm runtime he's working on
 
-# Archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKwQ7k7kwko?si=T1hdKwYtEc7U_sd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2023-10-03T18:00:00-06:00 - Austin Clements: Reversing SEGA ROMs using Ghidra
 
