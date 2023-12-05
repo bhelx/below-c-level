@@ -58,6 +58,7 @@ If you find yourself late or locked out of the building, please ping Benjamin or
 
 I can't provide guaranteed advice yet, but I will seek advice from drivers.
 I recommend you do not drive here and instead take public transportation, but I understand that is not feasible or comfortable for everyone.
+The #11 bus drops you off 10ft from the front door.
 
 ### Free Parking
 
