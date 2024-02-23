@@ -6,11 +6,22 @@ draft: false
 
 # Upcoming
 
+## 2024-03-05T18:00:00-06:00 - Vanessa Pyne - lo-fi spy: video, steganography, and you
+
+One time I internet searched the term “steganography”, thinking it was the study of where dinosaurs lived, but discovered it is actually the practice of hiding secret information inside a non-secret message. There are three qualities of a good steganography approach: imperceptibility, robustness, and embedding capacity. I thought to myself, that sounds like dope spy stuff and I definitely want to do that. It turns out video can be a fantastic non-secret message format in which to conceal covert messages. There are a few common approaches to make data undetectable, including bit manipulation ie the Least Significant Bit algorithm, as well as exploitation of error codes and of course, AI. Oh and there is this cool cryptographic concept of secret sharing, which can be used in video steganography to ensure the message is retrievable, even if some of the secret bits are missing. And embedding capacity is almost a given, as video files are often large and compressed. This talk (originally given at Demuxed in October) will go more in depth into how these methods work but don’t worry, the scary LSB and secret sharing maths will be softened with jokes and gifs.
+
+# Archive
+
+
+## 2024-02-06T18:00:00-06:00 - Lightning Talks
+
+We had some lightning talks
+
 ## 2023-12-05T18:00:00-06:00 - Dominique Saulet - WebAssembly Unpacked: A Guide to Wasm
 
 Perhaps you’ve heard of WebAssembly (Wasm) and all of the associated refrains: virtual Instruction Set Architecture (ISA), web standard, stack-based virtual machine, fantasy computer, and compilation target. Perhaps you’ve been told of its feature set: sandboxed security, highly performant and portable byte code format, and perhaps even, you’ve heard the prophecies: the holy grail of 'write once, run anywhere' (sorry Java), the common denominator for all compute, a bridge from languages, high and low, to platforms in the cloud and off to the far edge. But the truth, you see, is that Wasm is here. It’s all around you. Even now, in your browser, in your streaming services, in your serverless functions, extending your SaaS platforms, and running your AI models. And so, together, let’s unpack this alien tech and all of the arcane words that describe it, bit by bit, byte by byte, to discover what strange mechanisms make it tick, and what it means for the future.
 
-# Archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Fe_bSvOU6c?si=0sv29DnCRr615HOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2023-11-07T18:00:00-06:00 - Lightning Talks
 

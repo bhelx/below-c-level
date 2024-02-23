@@ -27,7 +27,7 @@ at NOLA Hack Night.
 
 ## Next Meeting
 
-Our next meeting is Tuesday, December 5th.
+Our next meeting is Tuesday, March 5th 2024.
 
 ## Location
 
@@ -40,9 +40,9 @@ If you want to attend in meatspace, you'll need to get to
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.255639529634!2d-90.0738928005132!3d29.943244402841852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a676c8155555%3A0xb336121282dc7834!2sThe%20Shop%20At%20the%20CAC!5e0!3m2!1sen!2sus!4v1674340885740!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <p></p>
 
-Enter the building using the glass doors on Camp St and take the elevator to the 3rd floor.
-There is a glass door that is somtimes locked that takes you into a lobby area.
-The event is within eyeshot of the door so someone should see you and let you in.
+Enter the building using the glass doors on Camp St and take the elevator to the 4th floor.
+There is a glass door that is sometimes locked that takes you into a lobby area.
+We'll be waiting in the area near the door with the rows of tables. Around 6:20 or so we migrate into the conference room (Executive Room 4D) in the center of the floor.
 
 The bar we will walk to afterwards is called [The Rusty Nail](http://www.rustynailnola.com/). It's a 7 minute walk from the venue. This is completely optional but we can't reserve the room all night.
 
