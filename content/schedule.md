@@ -6,12 +6,17 @@ draft: false
 
 # Upcoming
 
-## 2024-03-05T18:00:00-06:00 - Vanessa Pyne - lo-fi spy: video, steganography, and you
+## 2024-08-06T18:00:00-06:00 - Aaron Lee - Mob Programming a Web Server From Scratch
 
-One time I internet searched the term “steganography”, thinking it was the study of where dinosaurs lived, but discovered it is actually the practice of hiding secret information inside a non-secret message. There are three qualities of a good steganography approach: imperceptibility, robustness, and embedding capacity. I thought to myself, that sounds like dope spy stuff and I definitely want to do that. It turns out video can be a fantastic non-secret message format in which to conceal covert messages. There are a few common approaches to make data undetectable, including bit manipulation ie the Least Significant Bit algorithm, as well as exploitation of error codes and of course, AI. Oh and there is this cool cryptographic concept of secret sharing, which can be used in video steganography to ensure the message is retrievable, even if some of the secret bits are missing. And embedding capacity is almost a given, as video files are often large and compressed. This talk (originally given at Demuxed in October) will go more in depth into how these methods work but don’t worry, the scary LSB and secret sharing maths will be softened with jokes and gifs.
+We are going to try something different. We can try mob programming a web server from scratch. We'll open an editor on the projector and as a group walk through some basics of HTTP. This will be a great opportunity to learn from each other. This is our first try at mob programming, if it works well there are lots of services we can try and tackle in later meetings.
+
+Please note the change in location, we will be at SCALE, the same location as Front End Party. They have free coworking on Tuesdays if you bring fruit share. Some of us will be at SCALE before the meetup.
 
 # Archive
 
+## 2024-03-05T18:00:00-06:00 - Vanessa Pyne - lo-fi spy: video, steganography, and you
+
+One time I internet searched the term “steganography”, thinking it was the study of where dinosaurs lived, but discovered it is actually the practice of hiding secret information inside a non-secret message. There are three qualities of a good steganography approach: imperceptibility, robustness, and embedding capacity. I thought to myself, that sounds like dope spy stuff and I definitely want to do that. It turns out video can be a fantastic non-secret message format in which to conceal covert messages. There are a few common approaches to make data undetectable, including bit manipulation ie the Least Significant Bit algorithm, as well as exploitation of error codes and of course, AI. Oh and there is this cool cryptographic concept of secret sharing, which can be used in video steganography to ensure the message is retrievable, even if some of the secret bits are missing. And embedding capacity is almost a given, as video files are often large and compressed. This talk (originally given at Demuxed in October) will go more in depth into how these methods work but don’t worry, the scary LSB and secret sharing maths will be softened with jokes and gifs.
 
 ## 2024-02-06T18:00:00-06:00 - Lightning Talks
 
