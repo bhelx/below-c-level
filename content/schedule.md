@@ -6,13 +6,17 @@ draft: false
 
 # Upcoming
 
-## 2024-08-06T18:00:00-06:00 - Aaron Lee - Mob Programming a Web Server From Scratch
+## 2024-09-03T18:00:00-05:00 - TBD
+
+Join us in the #below-c-level channel on the NOLA Dev's Slack where we're planning the next meeting!
+
+# Archive
+
+## 2024-08-06T18:00:00-05:00 - Aaron Lee - Mob Programming a Web Server From Scratch
 
 We are going to try something different. We can try mob programming a web server from scratch. We'll open an editor on the projector and as a group walk through some basics of HTTP. This will be a great opportunity to learn from each other. This is our first try at mob programming, if it works well there are lots of services we can try and tackle in later meetings.
 
 Please note the change in location, we will be at SCALE, the same location as Front End Party. They have free coworking on Tuesdays if you bring fruit share. Some of us will be at SCALE before the meetup.
-
-# Archive
 
 ## 2024-03-05T18:00:00-06:00 - Vanessa Pyne - lo-fi spy: video, steganography, and you
 
@@ -30,8 +34,8 @@ Perhaps you’ve heard of WebAssembly (Wasm) and all of the associated refrains:
 
 ## 2023-11-07T18:00:00-06:00 - Lightning Talks
 
-* Devin Villegas (Software Eng. @ Netflix) will discuss formal methods
-* Benjamin Eckel will talk about a new Wasm runtime he's working on
+- Devin Villegas (Software Eng. @ Netflix) will discuss formal methods
+- Benjamin Eckel will talk about a new Wasm runtime he's working on
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKwQ7k7kwko?si=T1hdKwYtEc7U_sd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -55,9 +59,7 @@ One approach: A WebAssembly-first Filesystem. This talk will discuss the rationa
 
 A WebAssembly-powered computing platform allows us to think outside of the distinctions of Userspace and Kernelspace – so why not see how far that can take us? Starting with filesystems, we’ll see how some of the same concepts of virtualization from the kernel can be applied to new environments where a filesystem can exists close to your users, your application, on the cloud, and on devices, all without worrying about the all-too-familiar costs of syscall execution in traditional Operating Systems.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uj864_mI0gI" title="Below-C-Level August 203: Dan Phillips - Filesystems Everywhere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ## 2023-07-18T18:00:00-06:00 - Neil Mock: Virtio
 
@@ -76,7 +78,6 @@ Robert Ismo will talk about semantic search. Exploring methods of finding releva
 ### Recording
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uqVx6gCOrck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ## 2023-05-02T18:00:00-06:00 - Benjamin Eckel: Running JavaScript in Wasm
 
@@ -113,4 +114,3 @@ also spend some time filling out our schedule.
 ### Recording
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D7GxyHxyYA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
