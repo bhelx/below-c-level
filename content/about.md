@@ -49,7 +49,9 @@ how our computers and underlying systems work.
 
 ## Submitting a talk
 
-Reach out to [Ben](mailto:bhelx@simst.im). If you are new and willing to learn and talk about it, but aren't sure what to do, we'd love for you to
+Request a date in the `#below-c-level` channel in the [`Nola devs`](https://join.slack.com/t/nola/shared_invite/zt-2wwyu8rif-TCXX17XO~xSet3MCheK8uw) Slack workspace, and one of the organizers will reach out to you.
+
+If you are new and willing to learn and talk about it, but aren't sure what to do, we'd love for you to
 try something and come present your findings. Here are some ideas that could be fun:
 
 * Make your own simple programming language

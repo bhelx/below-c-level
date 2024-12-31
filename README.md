@@ -7,7 +7,7 @@ This is the repo for the site for our systems programming meetup. It's hosted he
 
 ## Contributing
 
-This site is generated using [hugo](https://gohugo.io/)
+This site is generated using [hugo](https://gohugo.io/). The latest compatible version is [0.124.1](https://github.com/gohugoio/hugo/releases/tag/v0.124.1).
 
 To run locally:
 
