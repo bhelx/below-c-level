@@ -6,9 +6,9 @@ draft: false
 
 # Upcoming
 
-## 2024-09-03T18:00:00-05:00 - TBD
+## 2025-01-07T18:00:00-06:00 - Jeff Read - An Implementation of the [Deflate]() Algorithm
 
-Join us in the #below-c-level channel on the NOLA Dev's Slack where we're planning the next meeting!
+Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
 
 # Archive
 
