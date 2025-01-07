@@ -5,10 +5,17 @@ draft: false
 ---
 
 # Upcoming
+## 2025-01-07T18:00:00-06:00 - [Adam Chalmers](https://adamchalmers.com/) - Vote on a Talk
 
+[Adam Chalmers](https://adamchalmers.com/) will present one of the following two talks. We'll vote on which one to hear at pizza time.
+- Building your own programming language
+- Keeping API servers, clients, and schemas in sync by generating them programmatically from their definition or code
+
+<!-- CANCELED
 ## 2025-01-07T18:00:00-06:00 - Jeff Read - An Implementation of the [Deflate]() Algorithm
 
 Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
+-->
 
 # Archive
 
