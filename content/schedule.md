@@ -6,11 +6,23 @@ draft: false
 
 # Upcoming
 
-## 2025-01-07T18:00:00-06:00 - Jeff Read - An Implementation of the [Deflate]() Algorithm
+## 2025-02-04T18:00:00-06:00 - <ins>[Flora Petterson](https://codebeamnyc.com/participants/flora-petterson/)</ins> - Building a Highly Available, Distributed Streaming System Using Only Elixir and The BEAM
 
-Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
+The [Publish-Subscribe Messaging Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) is an extremely valuable architectural tool in building scalable applications. However, the standard practice of relying on external brokers to manage queuing for incoming messages adds an unnecessary dependency into your system. Instead, you can utilize the benefits of a continuously available system powered by the [Erlang VM](https://www.erlang.org/blog/a-brief-beam-primer/) to safely and reliably store messages from a publication within your application until they are sent to a subscriber. In this talk, I will share lessons learned from working on [HCA’s Waterpark](https://elixirmerge.com/p/improving-healthcare-outcomes-with-elixirs-actor-model), a data integration engine that uses [Elixir](https://elixir-lang.org/) and the [BEAM](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/) to be a continuously available streaming system using a [distributed database](https://en.wikipedia.org/wiki/Distributed_database) that never touches disk.
 
 # Archive
+
+## 2025-01-07T18:00:00-06:00 - <ins>[Adam Chalmers](https://adamchalmers.com/)</ins> - Vote on a Talk
+
+[Adam Chalmers](https://adamchalmers.com/) will present one of the following two talks. We'll vote on which one to hear at pizza time.
+- Building your own programming language
+- ~~Keeping API servers, clients, and schemas in sync by generating them programmatically from their definition or code~~
+
+<!-- CANCELED
+## 2025-01-07T18:00:00-06:00 - Jeff Read - An Implementation of the Deflate Algorithm
+
+Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
+-->
 
 ## 2024-08-06T18:00:00-05:00 - Aaron Lee - Mob Programming a Web Server From Scratch
 
