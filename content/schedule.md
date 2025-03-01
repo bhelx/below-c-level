@@ -6,15 +6,24 @@ draft: false
 
 # Upcoming
 
+## 2025-03-11T18:00:00-06:00 - <ins>[Front End Party](http://www.frontendparty.com/)</ins> && Below C Level Crossover Episode
+
+This will be an extended meetup – 6-8pm, starting promptly.
+
+FEP && BCL are joining forces to make a Thing. There will be teams! If you ever wanted to explore the world of Arduino/microcontrollers, this will be a fun one!
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/9-5m5U7X8WM?loop=1&playlist=9-5m5U7X8WM" title="YouTube video player" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Archive
+
 ## 2025-02-04T18:00:00-06:00 - <ins>[Flora Petterson](https://codebeamnyc.com/participants/flora-petterson/)</ins> - Building a Highly Available, Distributed Streaming System Using Only Elixir and The BEAM
 
 The [Publish-Subscribe Messaging Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) is an extremely valuable architectural tool in building scalable applications. However, the standard practice of relying on external brokers to manage queuing for incoming messages adds an unnecessary dependency into your system. Instead, you can utilize the benefits of a continuously available system powered by the [Erlang VM](https://www.erlang.org/blog/a-brief-beam-primer/) to safely and reliably store messages from a publication within your application until they are sent to a subscriber. In this talk, I will share lessons learned from working on [HCA’s Waterpark](https://elixirmerge.com/p/improving-healthcare-outcomes-with-elixirs-actor-model), a data integration engine that uses [Elixir](https://elixir-lang.org/) and the [BEAM](https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/) to be a continuously available streaming system using a [distributed database](https://en.wikipedia.org/wiki/Distributed_database) that never touches disk.
 
-# Archive
-
 ## 2025-01-07T18:00:00-06:00 - <ins>[Adam Chalmers](https://adamchalmers.com/)</ins> - Vote on a Talk
 
 [Adam Chalmers](https://adamchalmers.com/) will present one of the following two talks. We'll vote on which one to hear at pizza time.
+
 - Building your own programming language
 - ~~Keeping API servers, clients, and schemas in sync by generating them programmatically from their definition or code~~
 
