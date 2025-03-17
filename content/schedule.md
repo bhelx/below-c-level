@@ -6,6 +6,12 @@ draft: false
 
 # Upcoming
 
+## 2025-04-01T18:00:00-05:00 - Jeff Read - An Implementation of the Deflate Algorithm
+
+Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
+
+# Archive
+
 ## 2025-03-11T18:00:00-06:00 - <ins>[Front End Party](http://www.frontendparty.com/)</ins> && Below C Level Crossover Episode
 
 This will be an extended meetup – 6-8pm, starting promptly.
@@ -13,8 +19,6 @@ This will be an extended meetup – 6-8pm, starting promptly.
 FEP && BCL are joining forces to make a Thing. There will be teams! If you ever wanted to explore the world of Arduino/microcontrollers, this will be a fun one!
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/9-5m5U7X8WM?loop=1&playlist=9-5m5U7X8WM" title="YouTube video player" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# Archive
 
 ## 2025-02-04T18:00:00-06:00 - <ins>[Flora Petterson](https://codebeamnyc.com/participants/flora-petterson/)</ins> - Building a Highly Available, Distributed Streaming System Using Only Elixir and The BEAM
 
@@ -26,12 +30,6 @@ The [Publish-Subscribe Messaging Pattern](https://en.wikipedia.org/wiki/Publish%
 
 - Building your own programming language
 - ~~Keeping API servers, clients, and schemas in sync by generating them programmatically from their definition or code~~
-
-<!-- CANCELED
-## 2025-01-07T18:00:00-06:00 - Jeff Read - An Implementation of the Deflate Algorithm
-
-Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
--->
 
 ## 2024-08-06T18:00:00-05:00 - Aaron Lee - Mob Programming a Web Server From Scratch
 
