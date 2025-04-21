@@ -6,9 +6,24 @@ draft: false
 
 # Upcoming
 
+## 2025-05-06T18:00:00-05:00 - Aaron Lee - Hop on the CAN Bus!
+
+Not all networking is Ethernet! Come learn about an alternative, the Controller
+Area Network, or CAN Bus for short. What is CAN? Where do you find CAN? How
+does it work? How is it different from Ethernet and WiFi? What are some tools
+you can use to tinker with a CAN Bus? I'll try to cover a lot of ground,
+hopefully something interesting for everyone.
+
 ## 2025-04-01T18:00:00-05:00 - Jeff Read - An Implementation of the Deflate Algorithm
 
-Jeff Read will be discussing the [Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data compression algorithm first developed by Phil Katz for his [PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in the PNG image format, gzip compressed files, and other applications. Mr. Read will present an implementation of the algorithm he wrote in [Scheme](https://www.scheme.org/) and talk about the details of the implementation and the challenges he faced writing it.
+Jeff Read will be discussing the
+[Deflate](https://en.wikipedia.org/wiki/Deflate) algorithm, a general data
+compression algorithm first developed by Phil Katz for his
+[PKZIP](https://www.pkware.com/products/pkzip) software, and now widely used in
+the PNG image format, gzip compressed files, and other applications. Mr. Read
+will present an implementation of the algorithm he wrote in
+[Scheme](https://www.scheme.org/) and talk about the details of the
+implementation and the challenges he faced writing it.
 
 # Archive
 
