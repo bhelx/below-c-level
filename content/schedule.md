@@ -14,6 +14,8 @@ does it work? How is it different from Ethernet and WiFi? What are some tools
 you can use to tinker with a CAN Bus? I'll try to cover a lot of ground,
 hopefully something interesting for everyone.
 
+# Archive
+
 ## 2025-04-01T18:00:00-05:00 - Jeff Read - An Implementation of the Deflate Algorithm
 
 Jeff Read will be discussing the
@@ -24,8 +26,6 @@ the PNG image format, gzip compressed files, and other applications. Mr. Read
 will present an implementation of the algorithm he wrote in
 [Scheme](https://www.scheme.org/) and talk about the details of the
 implementation and the challenges he faced writing it.
-
-# Archive
 
 ## 2025-03-11T18:00:00-06:00 - <ins>[Front End Party](http://www.frontendparty.com/)</ins> && Below C Level Crossover Episode
 
