@@ -6,13 +6,19 @@ draft: false
 
 # Upcoming
 
-## 2025-05-06T18:00:00-05:00 - Aaron Lee - Hop on the CAN Bus!
+## 2025-05-06T18:00:00-05:00 - Adam Chalmers - What it Takes to Make a DNS Client
 
-Not all networking is Ethernet! Come learn about an alternative, the Controller
-Area Network, or CAN Bus for short. What is CAN? Where do you find CAN? How
-does it work? How is it different from Ethernet and WiFi? What are some tools
-you can use to tinker with a CAN Bus? I'll try to cover a lot of ground,
-hopefully something interesting for everyone.
+Tonight, Adam will talk about a DNS client he recently wrote.
+
+Adam is saving the day once again as he fills in for own Aaron Lee, who had to cancel. Thanks, Adam!
+
+<!-- ## 🚨 CANCELED 🚨: 2025-05-06T18:00:00-05:00 - Aaron Lee - Hop on the CAN Bus! -->
+
+<!-- ~~Not all networking is Ethernet! Come learn about an alternative, the Controller -->
+<!-- Area Network, or CAN Bus for short. What is CAN? Where do you find CAN? How -->
+<!-- does it work? How is it different from Ethernet and WiFi? What are some tools -->
+<!-- you can use to tinker with a CAN Bus? I'll try to cover a lot of ground, -->
+<!-- hopefully something interesting for everyone.~~ -->
 
 # Archive
 
