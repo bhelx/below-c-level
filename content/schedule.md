@@ -6,6 +6,12 @@ draft: false
 
 # Upcoming
 
+## 2025-06-03T18:00:00-05:00 - Patrick Trainer - Beyond `SELECT *`: Forcing DuckDB-WASM to Render 3D Graphics via SQL
+
+As a backend data engineer, I asked a "what if": could [SQL](https://aws.amazon.com/what-is/sql/), specifically [DuckDB-WASM](https://duckdb.org/2021/10/29/duckdb-wasm.html), handle the heavy lifting of 3D graphics rendering in a browser? This talk explores the journey of building a text-based Doom clone where the database is the world, game logic is pure SQL, and even the 3D [ray casting](https://en.wikipedia.org/wiki/Ray_casting#:~:text=Ray%20casting%20greatly%20simplified%20image,the%20objects%20in%20the%20scene.) happens in a VIEW. We'll look at how recursive CTEs became a rendering engine, how JavaScript was used for orchestration and sprite [Z-buffering](https://en.wikipedia.org/wiki/Z-buffering), and the performance lessons learned from this unconventional marriage of data processing and frontend architecture.
+
+# Archive
+
 ## 2025-05-06T18:00:00-05:00 - Adam Chalmers - What it Takes to Make a DNS Client
 
 Tonight, Adam will talk about a DNS client he recently wrote.
@@ -19,8 +25,6 @@ Adam is saving the day once again as he fills in for own Aaron Lee, who had to c
 <!-- does it work? How is it different from Ethernet and WiFi? What are some tools -->
 <!-- you can use to tinker with a CAN Bus? I'll try to cover a lot of ground, -->
 <!-- hopefully something interesting for everyone.~~ -->
-
-# Archive
 
 ## 2025-04-01T18:00:00-05:00 - Jeff Read - An Implementation of the Deflate Algorithm
 
