@@ -6,11 +6,15 @@ draft: false
 
 # Upcoming
 
+## 2025-07-01T18:00:00-05:00 - ☀️ SUMMER BREAK 🏖️
+
+There won't be a meetup July 1st, 2025.
+
+# Archive
+
 ## 2025-06-03T18:00:00-05:00 - Patrick Trainer - Beyond `SELECT *`: Forcing DuckDB-WASM to Render 3D Graphics via SQL
 
 As a backend data engineer, I asked a "what if": could [SQL](https://aws.amazon.com/what-is/sql/), specifically [DuckDB-WASM](https://duckdb.org/2021/10/29/duckdb-wasm.html), handle the heavy lifting of 3D graphics rendering in a browser? This talk explores the journey of building a text-based Doom clone where the database is the world, game logic is pure SQL, and even the 3D [ray casting](https://en.wikipedia.org/wiki/Ray_casting#:~:text=Ray%20casting%20greatly%20simplified%20image,the%20objects%20in%20the%20scene.) happens in a VIEW. We'll look at how recursive CTEs became a rendering engine, how JavaScript was used for orchestration and sprite [Z-buffering](https://en.wikipedia.org/wiki/Z-buffering), and the performance lessons learned from this unconventional marriage of data processing and frontend architecture.
-
-# Archive
 
 ## 2025-05-06T18:00:00-05:00 - Adam Chalmers - What it Takes to Make a DNS Client
 
