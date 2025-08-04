@@ -6,11 +6,19 @@ draft: false
 
 # Upcoming
 
+## 2025-08-05T18:00:00-05:00 - An intro to Pipecat - a Python framework for building AI voice agents
+
+Summer is over. School is back in session.
+
+It's a little high level for below-C, but we're easing you back into the school year with LLMs, TTS and STT services, and perhaps even an MPC server.
+
+We look forward to seeing you there!
+
+# Archive
+
 ## 2025-07-01T18:00:00-05:00 - ☀️ SUMMER BREAK 🏖️
 
 There won't be a meetup July 1st, 2025.
-
-# Archive
 
 ## 2025-06-03T18:00:00-05:00 - Patrick Trainer - Beyond `SELECT *`: Forcing DuckDB-WASM to Render 3D Graphics via SQL
 
