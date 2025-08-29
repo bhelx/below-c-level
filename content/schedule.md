@@ -6,6 +6,12 @@ draft: false
 
 # Upcoming
 
+## 2025-09-02T18:00:00-05:00 - Aaron Lee - Hop on the CAN Bus!
+
+Not all networking is Ethernet! Come learn about an alternative, the Controller Area Network, or ["CAN Bus"](https://en.wikipedia.org/wiki/CAN_bus) for short. What is CAN? Where do you find CAN? How does it work? How is it different from Ethernet and WiFi? What are some tools you can use to tinker with a CAN Bus? I'll try to cover a lot of ground, hopefully something interesting for everyone.
+
+# Archive
+
 ## 2025-08-05T18:00:00-05:00 - An intro to Pipecat - a Python framework for building AI voice agents
 
 Summer is over. School is back in session.
@@ -13,8 +19,6 @@ Summer is over. School is back in session.
 It's a little high level for below-C, but we're easing you back into the school year with LLMs, TTS and STT services, and perhaps even an MPC server.
 
 We look forward to seeing you there!
-
-# Archive
 
 ## 2025-07-01T18:00:00-05:00 - ☀️ SUMMER BREAK 🏖️
 
