@@ -6,11 +6,15 @@ draft: false
 
 # Upcoming
 
+## 2025-10-07T18:00:00-05:00 - Alex McGinnis - Streaming 101
+
+How is most video content that you enjoy delivered to your device? How has this changed over the years? What is the deal with Big Buck Bunny? I am going to discuss some of the basics of video streaming, the different methods used over the years, and how to implement a very basic streaming server.
+
+# Archive
+
 ## 2025-09-02T18:00:00-05:00 - Aaron Lee - Hop on the CAN Bus!
 
 Not all networking is Ethernet! Come learn about an alternative, the Controller Area Network, or ["CAN Bus"](https://en.wikipedia.org/wiki/CAN_bus) for short. What is CAN? Where do you find CAN? How does it work? How is it different from Ethernet and WiFi? What are some tools you can use to tinker with a CAN Bus? I'll try to cover a lot of ground, hopefully something interesting for everyone.
-
-# Archive
 
 ## 2025-08-05T18:00:00-05:00 - An intro to Pipecat - a Python framework for building AI voice agents
 
