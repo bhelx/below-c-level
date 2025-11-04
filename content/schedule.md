@@ -4,19 +4,28 @@ date: 2023-02-10T11:19:01-06:00
 draft: false
 ---
 
+<!-- # Future -->
+
+<!-- ## 2025-11-04T18:00:00-06:00 - Mike Perry - Jailbreaking AI -->
+
 # Upcoming
+
+## 2025-11-04T18:00:00-06:00 - Vanessa Pyne - Open Source Contribution Workshop
+
+Is there an open source project you would love to contribute to but don't know how? This event is for you. Just want to understand git / pull requests / github a little better? This event is for you. Want to plug for your open source project? This event is for you.
+The point is there will be pizza and this event is for you.
+
+# Archive
 
 ## 2025-10-07T18:00:00-05:00 - Alex McGinnis - Streaming 101
 
 How is most video content that you enjoy delivered to your device? How has this changed over the years? What is the deal with Big Buck Bunny? I am going to discuss some of the basics of video streaming, the different methods used over the years, and how to implement a very basic streaming server.
 
-# Archive
-
 ## 2025-09-02T18:00:00-05:00 - Aaron Lee - Hop on the CAN Bus!
 
 Not all networking is Ethernet! Come learn about an alternative, the Controller Area Network, or ["CAN Bus"](https://en.wikipedia.org/wiki/CAN_bus) for short. What is CAN? Where do you find CAN? How does it work? How is it different from Ethernet and WiFi? What are some tools you can use to tinker with a CAN Bus? I'll try to cover a lot of ground, hopefully something interesting for everyone.
 
-## 2025-08-05T18:00:00-05:00 - An intro to Pipecat - a Python framework for building AI voice agents
+## 2025-08-05T18:00:00-05:00 - Vanessa Pyne - An intro to Pipecat - a Python framework for building AI voice agents
 
 Summer is over. School is back in session.
 
@@ -32,7 +41,7 @@ There won't be a meetup July 1st, 2025.
 
 As a backend data engineer, I asked a "what if": could [SQL](https://aws.amazon.com/what-is/sql/), specifically [DuckDB-WASM](https://duckdb.org/2021/10/29/duckdb-wasm.html), handle the heavy lifting of 3D graphics rendering in a browser? This talk explores the journey of building a text-based Doom clone where the database is the world, game logic is pure SQL, and even the 3D [ray casting](https://en.wikipedia.org/wiki/Ray_casting#:~:text=Ray%20casting%20greatly%20simplified%20image,the%20objects%20in%20the%20scene.) happens in a VIEW. We'll look at how recursive CTEs became a rendering engine, how JavaScript was used for orchestration and sprite [Z-buffering](https://en.wikipedia.org/wiki/Z-buffering), and the performance lessons learned from this unconventional marriage of data processing and frontend architecture.
 
-## 2025-05-06T18:00:00-05:00 - Adam Chalmers - What it Takes to Make a DNS Client
+## 2025-05-06T18:00:00-05:00 - dam Chalmers - What it Takes to Make a DNS Client
 
 Tonight, Adam will talk about a DNS client he recently wrote.
 
