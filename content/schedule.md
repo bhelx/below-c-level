@@ -6,6 +6,12 @@ draft: false
 
 # Upcoming
 
+## 2026-01-06 T18:00:00-06:00 - Canceled
+
+See you in February!
+
+# Archive
+
 ## 2025-12-02T18:00:00-06:00 - Mike Perry - Jailbreaking AI
 
 In this talk, I will give an overview of **LLM Agent hacking**. I will briefly introduce LLM Agents, their vulnerability surface, and types of attacks. I will then present [HostileShop](https://github.com/mikeperry-tor/HostileShop).
@@ -13,8 +19,6 @@ In this talk, I will give an overview of **LLM Agent hacking**. I will briefly i
 HostileShop is a python-based LLM Agent security testing tool that creates a fully simulated web shopping environment where an **Attacker Agent LLM** attempts to manipulate a **Target Shopping Agent LLM** into performing unauthorized actions that are automatically detected by the framework.  HostileShop is capable of discovering **prompt injections** that induce LLM Agents to make improper function calls. It is also capable of **cross-LLM adaptation of universal jailbreaks** that are powerful enough to make the target LLM become fully under your control, for arbitrary actions. This also enables public jailbreaks that have been partially blocked to work again, until they are more comprehensively addressed.
 
 HostileShop was selected as one of the [ten prize winners](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/hackathon-winners) in [OpenAI's GPT-OSS-20B RedTeam Contest](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/overview). Since then, it has been expanded to discover attacks against the entire LLM frontier.
-
-# Archive
 
 ## 2025-11-04T18:00:00-06:00 - Vanessa Pyne - Open Source Contribution Workshop
 
