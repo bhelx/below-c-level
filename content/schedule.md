@@ -6,11 +6,15 @@ draft: false
 
 # Upcoming
 
+## 2026-02-03 T18:00:00-06:00 - Jeff Read - Creating A Small Graphics FFI for Games
+
+The talk is about creating a small graphics FFI for my game jam games. It's _also_ about using game design and aesthetic choices to make that FFI easy to implement while delivering a compelling game.
+
+# Archive
+
 ## 2026-01-06 T18:00:00-06:00 - Canceled
 
 See you in February!
-
-# Archive
 
 ## 2025-12-02T18:00:00-06:00 - Mike Perry - Jailbreaking AI
 
