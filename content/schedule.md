@@ -6,11 +6,26 @@ draft: false
 
 # Upcoming
 
+## 2026-04-07 T18:00:00-06:00 - Birds of a Feather
+
+> A **birds of a feather** (**BoF**) session is an informal discussion group, scheduled at a conference or unconference. The term is borrowed from the proverb "birds of a feather flock together", meaning people with common interests tend to congregate. Birds of a feather sessions allow like-minded people to meet, network, discuss shared problems or interests, and share solutions without a formal structure.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing))
+
+No formal talk this month — just show up, grab some pizza, and talk about whatever's on your mind. Topics, projects, questions, rants all welcome.
+
+
+# Archive
+
+## 2026-03-03 T18:00:00-06:00 - Movie Night
+
+We'll be watching [James Mickens'](https://mickens.seas.harvard.edu/) legendary LISA15 keynote together.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1Zwhi6ag7g?start=1595" title="LISA15 - It Was Never Going to Work, So Let's Have Some Tea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 2026-02-03 T18:00:00-06:00 - Jeff Read - Creating A Small Graphics FFI for Games
 
 The talk is about creating a small graphics FFI for my game jam games. It's _also_ about using game design and aesthetic choices to make that FFI easy to implement while delivering a compelling game.
-
-# Archive
 
 ## 2026-01-06 T18:00:00-06:00 - Canceled
 
